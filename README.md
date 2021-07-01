@@ -1,4 +1,3 @@
-# KNN-in-C
 <h1>K Nearest Neighbours in C</h1>
 <p>Introduction:-<br>
 --</p>
